@@ -106,4 +106,4 @@ There is a discussion about this topic at stack overflow.
 
 # Sources:
 1. <https://stackoverflow.com/questions/662133/is-it-a-best-practice-to-wrap-arrays-and-their-length-variable-in-a-struct-in-c>
-2. https://www.geeksforgeeks.org/return-local-array-c-function/
+2. <https://www.geeksforgeeks.org/return-local-array-c-function/>
