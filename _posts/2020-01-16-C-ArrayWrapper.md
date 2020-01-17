@@ -103,3 +103,7 @@ Output:
 One can also use * to declear an array pointer instead of specifying a explicit length in the beginning.
 There is a discussion about this topic at stack overflow.
 <https://stackoverflow.com/questions/662133/is-it-a-best-practice-to-wrap-arrays-and-their-length-variable-in-a-struct-in-c>
+
+# Sources:
+1. <https://stackoverflow.com/questions/662133/is-it-a-best-practice-to-wrap-arrays-and-their-length-variable-in-a-struct-in-c>
+2. https://www.geeksforgeeks.org/return-local-array-c-function/
