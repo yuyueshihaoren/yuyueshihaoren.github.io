@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "C Array Wrapper"
-categories: [study notes C Programming]
+categories: [programming]
 use_math: true
 ---
 
