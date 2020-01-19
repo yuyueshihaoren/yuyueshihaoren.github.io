@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Privacy
+## ⚠️Protect Your Privacy!
 Currently I am using disqus for commenting.
 This service might track you, which is not my intention.
-I recommend everyone to install a privacy protecting plugin: [privacy badger](https://www.eff.org/privacybadger)
+I recommend everyone to install a privacy protecting plugin: [privacy badger](https://www.eff.org/privacybadger).
