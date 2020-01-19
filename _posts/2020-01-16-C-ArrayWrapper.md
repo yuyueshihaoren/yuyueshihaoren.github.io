@@ -2,7 +2,8 @@
 layout: post
 title:  "C Array Wrapper"
 categories: [programming]
-use_math: true
+id: 1
+comment: true
 ---
 
 In C, one can't write a function and return a local array.
