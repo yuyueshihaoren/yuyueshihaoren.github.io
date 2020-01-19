@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "C Array Wrapper"
+date: 2020-01-16
 categories: [programming]
 id: 1
 comment: true
