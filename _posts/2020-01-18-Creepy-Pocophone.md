@@ -4,7 +4,7 @@ layout: post
 title: "Creepy Voice from my Pocophone F1"
 comment: true
 date: 2020-01-18
-categoris: [story]
+categories: [story]
 ---
 # Pocophone F1
 Pocophone F1 is a international sub-brand of a Chinese smart phone company Xiaomi
