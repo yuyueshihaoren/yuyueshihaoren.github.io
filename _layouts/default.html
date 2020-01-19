@@ -5,9 +5,6 @@
 {% if page.math %}
 {% include mathjax.html %}
 {% endif %}
-{% if page.comment %}
-{% include disqus.html %}
-{% endif %}
 
 <body>
 
@@ -20,6 +17,9 @@
     </main>
 
     {%- include footer.html -%}
+    {% if page.comment %}
+    {% include disqus.html %}
+    {% endif %}
 
 </body>
 
