@@ -43,8 +43,8 @@ struct {
 4 * 4 = 16.
 
 
-## 1. Size of a struct containing two variables
-First, intuitive ones.
+## 2. Size of a struct containing two variables
+First, intuitive ones:
 ```c
 struct {
     int a;
@@ -54,7 +54,7 @@ struct {
 `8`  
 Size is 8 bytes, 4 + 4 = 8.
 
-Then, counter-intuitive ones.
+Then, counter-intuitive ones:
 ```c
 struct {
     int a;
@@ -97,8 +97,8 @@ struct {
 }
 ```
 `256`  
-The first struct is of size 32 as we analyzed.
-The second of is just an array of the first struct.
+The first struct is of size 32, as we analyzed.
+The second one is just an array of the first struct.
 So, it's size is 32 * 8 = 256.
 
-If the word length of a machine is 32-bit long, the only difference is the pointer size is now 4 bytes instead of 8 bytes.
+If the word length of a machine is 32-bit long, the only difference is that the pointer size is now 4 bytes instead of 8 bytes.
