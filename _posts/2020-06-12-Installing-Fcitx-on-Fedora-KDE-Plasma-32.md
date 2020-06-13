@@ -1,3 +1,11 @@
+---
+layout: post
+date:   2020-06-12
+categories: [tutorial]
+id: 7
+comment: true
+---
+
 English:
 
 This tutorial focuses on installing fcitx input method on Fedora 32 KDE Plasma on Wayland
