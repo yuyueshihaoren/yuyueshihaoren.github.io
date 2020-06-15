@@ -6,9 +6,12 @@ id: 7
 comment: true
 ---
 
+> Edit note: This method is for X11 instead of Wayland. The command should be imsettings-switch fcitx without the -s parameter.
+
+
 English:
 
-This tutorial focuses on installing fcitx input method on Fedora 32 KDE Plasma on Wayland
+This tutorial focuses on installing fcitx input method on Fedora 32 KDE Plasma on X11
 
 First, update the repository. `sudo dnf update`.
 
@@ -21,7 +24,7 @@ After installing all the packages, run `fcitx-configtool` either through termina
 
 Run this command in your terminal
 ```shell
-imsettings-switch -s fcitx
+imsettings-switch fcitx
 ```
 
 You might get warnings here. Just ignore it. Log out and log back in or reboot. You should be ready to go.
@@ -29,7 +32,7 @@ You might get warnings here. Just ignore it. Log out and log back in or reboot. 
 
 简体中文：
 
-这篇教程简短地讨论一下在Fedora 32 KDE Plasma Wayland上安装fcitx.
+这篇教程简短地讨论一下在Fedora 32 KDE Plasma X11上安装fcitx.
 
 首先，更新一下系统。`sudo dnf update`
 
@@ -42,7 +45,7 @@ sudo dnf install fcitx fcitx-libpinyin fcitx-qt4 kcm-fcitx
 
 运行一下命令来切换系统默认输入法至fcitx
 ```shell
-imsettings-switch -s fcitx
+imsettings-switch fcitx
 ```
 
 此处会有报错，请忽略，然后重启电脑。安装完成。
