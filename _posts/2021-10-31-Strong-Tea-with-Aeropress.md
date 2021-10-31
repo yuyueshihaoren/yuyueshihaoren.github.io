@@ -6,7 +6,7 @@ id: 8
 comment: true
 ---
 
-# A Strong Tea with Aeropress
+# Strong Tea with Aeropress
 
 I'll use Chrysanthemum as an example, which is a popular herbal tea in
 East Asia. However, this method
