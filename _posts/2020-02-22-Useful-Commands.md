@@ -3,7 +3,6 @@ layout: post
 title:  "Useful Commands"
 date:   2020-02-22
 categories: [notes]
-id: 6
 comment: true
 ---
 

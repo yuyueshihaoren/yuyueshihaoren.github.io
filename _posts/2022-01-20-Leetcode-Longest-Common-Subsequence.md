@@ -3,7 +3,6 @@ layout: post
 date:   2022-01-20
 categories: [programming]
 math: true
-id: 10
 comment: true
 ---
 
@@ -22,7 +21,7 @@ Define $m,n$ to be the length of `text1` and `text2`, respectively.
 Let me define the subproblem:
 $Lc(i,j)$ = max length of common subsequence of sub-string of `text1` till index $i$ and sub-string of `text2` till $j$
 
-Find the relation:
+Find the relation:  
 There are 2 cases and two options in case 2:
 1. $text1_i$ matches $text2_j$, get 1 point.
 2. $text1_i$ does not matches $text2_j$, get 0 point.

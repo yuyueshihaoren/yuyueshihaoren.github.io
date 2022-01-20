@@ -28,7 +28,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
+kramdown:
+  hard_wrap: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

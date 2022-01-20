@@ -2,7 +2,6 @@
 layout: post
 date:   2020-06-12
 categories: [tutorial]
-id: 7
 comment: true
 ---
 

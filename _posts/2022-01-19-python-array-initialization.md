@@ -2,7 +2,6 @@
 layout: post
 date:   2022-01-19
 categories: [programming]
-id: 9
 comment: true
 ---
 

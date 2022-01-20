@@ -1,5 +1,4 @@
 ---
-id: 4
 layout: post
 title: "Creepy Voice from my Pocophone F1"
 comment: true
