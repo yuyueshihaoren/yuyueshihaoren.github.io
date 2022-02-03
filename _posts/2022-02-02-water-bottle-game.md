@@ -5,4 +5,4 @@ categories: [programming]
 comment: true
 ---
 
-[Link to the game](https://github.com/yuyueshihaoren/yuyueshihaoren.github.io/raw/master/_assets/bottle.html)
+[Link to the game](../_assets/bottle.html)
