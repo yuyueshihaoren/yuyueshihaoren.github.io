@@ -5,4 +5,4 @@ categories: [programming]
 comment: true
 ---
 
-[Link to the game](../_assets/bottle.html)
+[Link to the game]({{ site.baseurl }}{% link _assets/bottle.html %})
